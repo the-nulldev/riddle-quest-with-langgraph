@@ -1,0 +1,12 @@
+type: edu
+files:
+  - name: test/__init__.py
+    visible: true
+  - name: test/tests.py
+    visible: true
+    propagatable: false
+  - name: main.py
+    visible: true
+    propagatable: false
+  - name: tests.py
+    visible: true
